@@ -4,7 +4,7 @@ A bunch of random shell scritps that you might never need.
 
 First line of each script briefly descibes what its intended to do.
 
-Most scripts have very obvious dependencies. All of them are very widely available; easy to download and install.
+Some scripts have very obvious (very fundamental) dependencies. All of them are very widely available; easy to download and install.
 
 Feel free contribute? Fork -> Add Changes -> Commit -> Pull Request.
 
