@@ -1,3 +1,5 @@
+# Add __init__.py to specified directory and all its sub directories lol
+
 # Print usage/help
 print_usage() {
   echo "Usage: $0 <directory_path>"
